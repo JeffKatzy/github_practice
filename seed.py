@@ -2,3 +2,9 @@
 
 
 # add users in here
+
+
+# add venues
+
+
+# locations
